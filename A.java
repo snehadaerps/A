@@ -1,0 +1,9 @@
+class A{  
+public static void main(String args[]){  
+  System.out.println("Passed arguments is: ");  
+for(int i=0;i<args.length;i++)  
+	
+System.out.println(args[i]);  
+  
+}  
+}  
